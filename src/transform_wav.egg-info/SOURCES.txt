@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+src/transform_wav.py
+src/transform_wav.egg-info/PKG-INFO
+src/transform_wav.egg-info/SOURCES.txt
+src/transform_wav.egg-info/dependency_links.txt
+src/transform_wav.egg-info/top_level.txt
